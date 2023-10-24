@@ -12,7 +12,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://t.me/+oej8cujHMFJhNmI9'>Pᴀᴄʜᴀ ᴍᴀʟᴀയാളം,Wɪᴛʜ ΞИGLISH🤕</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://t.me/+3-nuV_9INIg0MDY1'>Tɢ 🫥</a>
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ: <a href='https://t.me/bot_Cracker'>BᴏΓ CΓΔCᴋΣRꜱ 😵‍💫</a>
-✯ Pґᴏᴠɪᴅᴇʀ: <a href='https://t.me/mod_moviezx'>Mᴏᴅ Mᴏᴠɪᴇᴢ ❎️ 〰️™️🌐 </a>
+✯ Pґᴏᴠɪᴅᴇʀ: <a href='https://t.me/mod_moviez_x'>Mᴏᴅ Mᴏᴠɪᴇᴢ X 〰️™️🌐 </a>
 ✯ Yᴏᴜ TᴜʙΞ: <a href='https://youtube.com/@Mr_Syd_Yt'> @Mr_sYd_yT ☺️</a>
 ✯ ʙΔᴄᴋ-Uᴩ: <a href='https://t.me/nt_Backup/5'> UʀɢΞɴᴛ BΔᴄᴋ-Uᴩ🎗🔙🔄</a>
 ✯ Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v2 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]
@@ -73,12 +73,12 @@ To; @Ms_FiLe2LINk_bOt
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/Mod_MoviezX)</code>
+<code>[Button Text](buttonurl:https://t.me/Mod_Moviez_X)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ   😁)</code>
 
 <b> DΞᴍᴏ Bᴜᴛᴛᴏɴꜱ Aʀᴇ Gɪᴠᴇɴ Bᴇʟᴏᴡ😶‍🌫️ Aɴᴅ Tʜᴇ Cᴏᴅᴇ Uꜱᴇᴅ Hᴇʀᴇ 🫨, Hᴏᴩɪɴɢ Yᴏᴜ Wᴏᴜʟᴅ Lɪᴋᴇ Iᴛ.🫥</b>
-<code>[Jᴏɪɴ Oᴜʀ CʜΔɴɴᴇʟ ⬈](buttonurl:https://t.me/Mod_MoviezX)
+<code>[Jᴏɪɴ Oᴜʀ CʜΔɴɴᴇʟ ⬈](buttonurl:https://t.me/Mod_Moviez_X)
 
 [Hᴇʟр](buttonalert:Dᴏɴ'ᴛ ɴᴇᴇᴅ Tᴏ ᴛʜɪɴᴋ ʙʀᴏ,ᴊᴜꜱᴛ ᴊᴏɪɴ 🥰)</code>"""
 
