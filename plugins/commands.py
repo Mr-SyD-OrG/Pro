@@ -72,7 +72,7 @@ async def start(client, message):
                 ],[
                     InlineKeyboardButton('✧ GʀᴏUᴩ', url='https://t.me/+DqCTrhaymr9mYWZl'),
                     InlineKeyboardButton('♤ BᴏΓꜱ', url='https://t.me/Bot_Cracker/17'),
-                    InlineKeyboardButton('⚝ Mᴏᴠɪᴇꜱ 𝙲ʜᴀɴɴᴇʟ', url='https://t.me/Mod_MoviezX')
+                    InlineKeyboardButton('⚝ Mᴏᴠɪᴇꜱ 𝙲ʜᴀɴɴᴇʟ', url='https://t.me/Mod_Moviez_X')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
@@ -135,7 +135,7 @@ async def start(client, message):
 
                     InlineKeyboardButton('♤ BᴏΓꜱ', url='https://t.me/Bot_Cracker/17'),
 
-                    InlineKeyboardButton('⚝ Mᴏᴠɪᴇꜱ 𝙲ʜᴀɴɴᴇʟ', url='https://t.me/Mod_MoviezX')
+                    InlineKeyboardButton('⚝ Mᴏᴠɪᴇꜱ 𝙲ʜᴀɴɴᴇʟ', url='https://t.me/Mod_Moviez_X')
 
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
