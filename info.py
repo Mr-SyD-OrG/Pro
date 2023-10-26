@@ -1,4 +1,4 @@
-import re
+6import re
 from os import environ
 from Script import script 
 
@@ -42,7 +42,7 @@ REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_
 SUPPORT_CHAT_ID = int(environ.get('SUPPORT_CHAT_ID'))
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 SYD_LINKS = 'https://t.me/+0Zi1FC4ulo8zYzVl'
-SYD_SHARE = 'https://t.me/000000000'
+SYD_SHARE = 'tg://msg?text=Hᴇʏ✨Vʀᴏ,+I+ᴀᴍ+ᴜꜱɪɴɢ+ᴛʜɪꜱ+ᴍᴏᴠɪᴇꜱ+ʙᴏᴛ🎀+Wʜᴀᴛ+ᴀ+ꜰᴀɴᴛᴀꜱᴛɪᴄ+ᴏɴᴇ¡+ʏᴏᴜ+ᴍᴜꜱᴛ+ɢɪʙᴇ+1️⃣+ᴛʀʏ.++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++@Pro_MoviEz_Bot+✨+⚡+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++🆒ᴛʜᴇʀᴇ+ɪꜱ+ɴᴏ+ꜰᴏʀᴄᴇ+ꜱᴜʙ🆓.+++++++++++++++++++++++++++++++++++++++++++++++++++++++++Pʟᴇᴀꜱᴇ+ᴜꜱᴇ+ɪᴛ+ʙʀᴏ....+🫠+[+Bʏ+@Bot_Cracker+🗺️]'
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "Rajappan")
