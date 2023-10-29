@@ -40,7 +40,7 @@ AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 reqst_channel = environ.get('REQST_CHANNEL_ID')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(environ.get('SUPPORT_CHAT_ID'))
-NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
+NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", True))
 SYD_LINKS = 'https://t.me/+0Zi1FC4ulo8zYzVl'
 SYD_SHARE = 'tg://msg?text=Hᴇʏ✨Vʀᴏ,+I+ᴀᴍ+ᴜꜱɪɴɢ+ᴛʜɪꜱ+ᴍᴏᴠɪᴇꜱ+ʙᴏᴛ🎀+Wʜᴀᴛ+ᴀ+ꜰᴀɴᴛᴀꜱᴛɪᴄ+ᴏɴᴇ¡+ʏᴏᴜ+ᴍᴜꜱᴛ+ɢɪʙᴇ+1️⃣+ᴛʀʏ.++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++@Pro_MoviEz_Bot+✨+⚡+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++🆒ᴛʜᴇʀᴇ+ɪꜱ+ɴᴏ+ꜰᴏʀᴄᴇ+ꜱᴜʙ🆓.+++++++++++++++++++++++++++++++++++++++++++++++++++++++++Pʟᴇᴀꜱᴇ+ᴜꜱᴇ+ɪᴛ+ʙʀᴏ....+🫠+[+Bʏ+@Bot_Cracker+🗺️]'
 # MongoDB information
