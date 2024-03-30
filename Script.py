@@ -1,11 +1,12 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ, Oʀ SΞᴀʀᴄʜ Hᴇʀᴇ 😋😋</b>"""
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ, Oʀ SΞᴀʀᴄʜ Hᴇʀᴇ 😋😋</b>
+<blockquote><p>Bᴏᴛ Suᴩᴩᴏʀᴛ ʙ0ᴛʜ ɢʀᴏUᴩ ᴀ𝗡ᴅ ℙ𝕄</p></blockquote>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 
-    ABOUT_TXT = """```⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟```
+    ABOUT_TXT = """<blockquote>⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟```
 <b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Syd_XyZ'>≛ ᴍ𝖗𓆩𝕾𝖄𝕯𓆪ꪾ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a>
