@@ -3,13 +3,10 @@ class script(object):
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ, Oʀ SΞᴀʀᴄʜ Hᴇʀᴇ 😋😋</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>
+Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 
-Sh.
-"""
-
-    ABOUT_TXT = """<b> ⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟
-✯ Mʏ Nᴀᴍᴇ: {}
+    ABOUT_TXT = """```⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟```
+<b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Syd_XyZ'>≛ ᴍ𝖗𓆩𝕾𝖄𝕯𓆪ꪾ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://t.me/+oej8cujHMFJhNmI9'>Pᴀᴄʜᴀ ᴍᴀʟᴀയാളം,Wɪᴛʜ ΞИGLISH🤕</a>
