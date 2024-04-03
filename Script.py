@@ -2,13 +2,13 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ, Oʀ SΞᴀʀᴄʜ Hᴇʀᴇ 😋😋</b>
 <blockquote>Bᴏᴛ Suᴩᴩᴏʀᴛ Oɴʟʏ ɪɴ ɢʀᴏUᴩ 🥲 </blockquote>
-<blockquote>Fᴏʀ <b>PM</b> Sᴜᴩᴩ0ят ᴜꜱᴇ @MrMoVieZ_bOt 🎈 </blockquote>
+<blockquote>Fᴏʀ PM Sᴜᴩᴩ0ят ᴜꜱᴇ @MrMoVieZ_bOt 🎈 </blockquote>
 <blockquote>Δᴅᴅ ᴍᴇ Tᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴇᴀʀɴ ᴍᴏɴᴇʏ🤭 </blockquote>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 
-    ABOUT_TXT = """<blockquote>⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟
+    ABOUT_TXT = """<blockquote>⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟</blockquote>
 <b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Syd_XyZ'>≛ ᴍ𝖗𓆩𝕾𝖄𝕯𓆪ꪾ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a>
@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 ✯ ʙΔᴄᴋ-Uᴩ: <a href='https://t.me/nt_Backup/5'> UʀɢΞɴᴛ BΔᴄᴋ-Uᴩ🎗🔙🔄</a>
 ✯ Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v2 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]
 
-⍟───────[ Tʜᴇ ΞɴD ]───────⍟</b></blockquote>"""
+⍟───────[ Tʜᴇ ΞɴD ]───────⍟</b>"""
 
     GAMES_TXT ="""»»»»»»»»»»"""
 
@@ -35,6 +35,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
     <a href=""></a> Eᴀʀɴɪɴɢ ᴩᴇʀ ᴛʜᴏᴜꜱᴀɴᴅ ᴄʟɪᴄᴋ (ᴄᴩᴍ) = ₹
     <a href=""></a> Eᴀʀɴɪɴɢ ᴩᴇʀ ᴛʜᴏᴜꜱᴀɴᴅ ᴄʟɪᴄᴋ (ᴄᴩᴍ) = ₹
     <a href=""></a> Eᴀʀɴɪɴɢ ᴩᴇʀ ᴛʜᴏᴜꜱᴀɴᴅ ᴄʟɪᴄᴋ (ᴄᴩᴍ) = ₹"""
+    
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴍᴀᴅᴇ ʙy <a href=https://t.me/Syd_Xyz>𝕸𝖗 𝕤чᴅ 😇</a>.
 - ɪꜰ yᴏᴜ ᴡᴀɴᴛ ᴄʀᴇᴀᴛᴇ ᴀɴ ᴇxᴀᴄᴛ [ Wɪᴛʜ Yᴏᴜʀ Oᴡɴ Mᴏᴅɪꜰɪᴄᴀᴛɪᴏɴ ]ʙᴏᴛ ʟɪᴋᴇ ᴍᴇ, ᴍᴇꜱꜱᴀɢᴇ <a href=https://t.me/Syd_Xyz>𝕸𝖗 𝕤чᴅ 😇</a>. ᴏʀ ᴛᴏ Бᴜy ᴀ Bᴏᴛ, yᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴍѦᴋᴇ TʜΞ ʙᴏᴛ ꜰᴏʀ FЯΞΞΞ ( ꜰᴇᴡ ʟɪᴍɪᴛɪᴀᴛɪᴏɴ ᴀʜᴇᴀᴅ).                 
