@@ -56,7 +56,8 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /filters - <code>ʟɪꜱᴛ ᴀʟʟ ᴛʜᴇ ꜰɪʟᴛᴇʀꜱ ᴏꜰ ᴀ ᴄʜᴀᴛ</code>
 • /del - <code>ᴅᴇʟᴇᴛᴇ ᴀ ꜱᴘᴇᴄɪꜰɪᴄ ꜰɪʟᴛᴇʀ ɪɴ ᴀ ᴄʜᴀᴛ</code>
 • /delall - <code>ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴡʜᴏʟᴇ ꜰɪʟᴛᴇʀꜱ ɪɴ ᴀ ᴄʜᴀᴛ (ᴄʜᴀᴛ ᴏᴡɴᴇʀ ᴏɴʟʏ)</code>"""
-    FILETOLINK = """<b>Fᴏʀᴡᴀʀᴅ ᴀɴʏ ꜰɪʟᴇ ꜰʀᴏᴍ `ᴍᴇ´ ᴏʀ @MoViE_2022_NT_Bot ᴏʀ @MrMoviez_Bot
+    
+    FILETOLINK_TXT = """<b>Fᴏʀᴡᴀʀᴅ ᴀɴʏ ꜰɪʟᴇ ꜰʀᴏᴍ `ᴍᴇ´ ᴏʀ @MoViE_2022_NT_Bot ᴏʀ @MrMoviez_Bot
 
 To; @Ms_FiLe2LINk_bOt
 
