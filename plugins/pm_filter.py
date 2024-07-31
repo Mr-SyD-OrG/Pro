@@ -643,7 +643,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                               InlineKeyboardButton('Iɴʟɪɴᴇ SᴇΔʀᴄʜ ☌', switch_inline_query_current_chat=query)
 
                        ],[
-                              InlineKeyboardButton('⚐ Wᴀᴛᴄʜ Ѧɴᴅ Ξɴᴊᴏy ❦', url='https://t.me/parallel)
+                              InlineKeyboardButton('⚐ Wᴀᴛᴄʜ Ѧɴᴅ Ξɴᴊᴏy ❦', url='https://t.me/parallel')
 
                              ]
 
