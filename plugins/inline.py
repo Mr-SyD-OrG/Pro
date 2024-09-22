@@ -58,7 +58,7 @@ async def answer(bot, query):
                                                   offset=offset)
 
     for file in files:
-        title=file.file_name
+        title=' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@') and not x.startswith('www.'), file.file_name.split()))
         size=get_size(file.file_size)
         f_caption=file.caption
         if CUSTOM_FILE_CAPTION:
