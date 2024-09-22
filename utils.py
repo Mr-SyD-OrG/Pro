@@ -622,7 +622,7 @@ async def send_all(bot, userid, files, ident):
     
     for file in files:
         f_caption = file.caption
-        title = file.file_name
+        title = {' '.join(filter(lambda x: not x.startswith('[') and not x.startswith('@') and not x.startswith('www.'), file.file_name.split()))}
         size = get_size(file.file_size)
         if CUSTOM_FILE_CAPTION:
             try:
