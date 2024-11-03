@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b></blockquote>""
 ✯ ʙΔᴄᴋ-Uᴩ: <a href='https://t.me/nt_Backup/5'> UʀɢΞɴᴛ BΔᴄᴋ-Uᴩ🎗🔙🔄</a>
 ✯ Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v2 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]
 
-<blockquote>⍟───────[=Tʜᴇ-ΞɴD=]───────⍟</blockquote></b>"""
+<blockquote>⍟──────[=Tʜᴇ-ΞɴD=]──────⍟</blockquote></b>"""
 
     GAMES_TXT ="""»»»»»»»»»»"""
 
