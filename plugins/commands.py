@@ -20,9 +20,9 @@ BATCH_FILES = {}
 
 @Client.on_message(filters.command("start") & filters.incoming)
 async def start(client, message):
-    #SU = "😀 ⚡ 👍 ❤️ 🔥 👀 👏 🕊️ 😘 🆒 🍓 🏆 💯 ❤️‍🔥"
-   # SYDD = PI.split()
-   # await message.react(emoji=random.choice(SYDD))
+    SU = "😀 ⚡ 👍 ❤️ 🔥 👀 👏 🕊️ 😘 🆒 🍓 🏆 💯 ❤️‍🔥"
+    SYDD = PI.split()
+    await message.react(emoji=random.choice(SYDD))
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
@@ -73,7 +73,7 @@ async def start(client, message):
                     InlineKeyboardButton('⌘ Bᴀᴄᴋ-Uᴩ Rᴇ𝚀ᴜᴇꜱᴛ', url='https://t.me/+0Zi1FC4ulo8zYzVl'),
                     InlineKeyboardButton('✰ Mᴀɪɴ Cʜᴀɴɴᴇʟ', url='https://t.me/bot_cracker')
                 ],[
-                    InlineKeyboardButton('✧ GʀᴏUᴩ', url='https://t.me/+lgyJs303FeU0YjU9'),
+                    InlineKeyboardButton('✧ GʀᴏUᴩ', url='https://t.me/+v620YjzCJPM3NDBl'),
                     InlineKeyboardButton('♤ BᴏΓꜱ', url='https://t.me/Bot_Cracker/17'),
                     InlineKeyboardButton('⚝ Mᴏᴠɪᴇꜱ 𝙲ʜᴀɴɴᴇʟ', url='https://t.me/Mod_Moviez_X')
                 ],[
@@ -137,7 +137,7 @@ async def start(client, message):
 
                 ],[
 
-                    InlineKeyboardButton('✧ GʀᴏUᴩ', url='https://t.me/+lgyJs303FeU0YjU9'),
+                    InlineKeyboardButton('✧ GʀᴏUᴩ', url='https://t.me/+v620YjzCJPM3NDBl'),
 
                     InlineKeyboardButton('♤ BᴏΓꜱ', url='https://t.me/Bot_Cracker/17'),
 
