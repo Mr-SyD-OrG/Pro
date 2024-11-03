@@ -2,11 +2,11 @@ class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ, Oʀ SΞᴀʀᴄʜ Hᴇʀᴇ 😋😋
 <blockquote>Bᴏᴛ Suᴩᴩᴏʀᴛ Oɴʟʏ ɪɴ ɢʀᴏUᴩ.</blockquote>
-Fᴏʀ PM Sᴜᴩᴩ0ят ᴜꜱᴇ @MrMoVieZ_bOt 🎈
+<blockquote>Fᴏʀ PM Sᴜᴩᴩ0ят ᴜꜱᴇ @Mr_Movies_File_bot 🎈</blockquote>
 <blockquote>Δᴅᴅ ᴍᴇ Tᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴇᴀʀɴ ᴍᴏɴᴇʏ.</blockquote></b>"""
 
-    HELP_TXT = """<b>Hᴇʏ {}
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
+    HELP_TXT = """<b><blockquote>Hᴇʏ {}
+Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b></blockquote>"""
 
     ABOUT_TXT = """<blockquote>⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟</blockquote>
 <b>✯ Mʏ Nᴀᴍᴇ: {}
@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 ✯ ʙΔᴄᴋ-Uᴩ: <a href='https://t.me/nt_Backup/5'> UʀɢΞɴᴛ BΔᴄᴋ-Uᴩ🎗🔙🔄</a>
 ✯ Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v2 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]
 
-⍟───────[ Tʜᴇ ΞɴD ]───────⍟</b>"""
+<blockquote>⍟───────[ Tʜᴇ ΞɴD ]───────⍟</blockquote></b>"""
 
     GAMES_TXT ="""»»»»»»»»»»"""
 
@@ -42,8 +42,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 - Nᴇᴠᴇʀ Sʜᴏᴡ Sʜy Tᴏ Mᴇꜱꜱᴀɢᴇ.
 
 Dᴇᴠᴇʟᴏᴘᴇʀ:
-- <a href="https://t.me/Syd_Xyz">≛ ᴍᖇ Sy∂ ≛</a>
-- <a href="tg://user?id={}">⍟ {} ⍟</a></b>"""
+<blockquote>- <a href="https://t.me/Syd_Xyz">≛ ᴍᖇ Sy∂ ≛</a></blockquote>
+<blockquote>- <a href="tg://user?id={}">⍟ {} ⍟</a></blockquote></b>"""
     
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
