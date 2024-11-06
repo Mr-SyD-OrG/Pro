@@ -8,7 +8,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
     HELP_TXT = """<b><blockquote>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b></blockquote>"""
 
-    ABOUT_TXT = """<blockquote>⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟</blockquote>
+    ABOUT_TXT = """<blockquote>⍟─────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]─────⍟</blockquote>
 <b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Syd_XyZ'>≛ ᴍ𝖗𓆩𝕾𝖄𝕯𓆪ꪾ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a>
@@ -20,7 +20,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b></blockquote>""
 ✯ ʙΔᴄᴋ-Uᴩ: <a href='https://t.me/nt_Backup/5'> UʀɢΞɴᴛ BΔᴄᴋ-Uᴩ🎗🔙🔄</a>
 ✯ Bᴜɪʟᴅ ∇ᴇʀꜱɪᴏɴ : v2 [ ≛ Bƴ ʍɾ Sчᴅ ≛ ]
 
-<blockquote>⍟──────[=Tʜᴇ-ΞɴD=]──────⍟</blockquote></b>"""
+<blockquote>⍟────[=Tʜᴇ-ΞɴD=]────⍟</blockquote></b>"""
 
     GAMES_TXT ="""»»»»»»»»»»"""
 
