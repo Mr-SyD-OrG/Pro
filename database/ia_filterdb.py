@@ -39,6 +39,10 @@ async def save_file(media):
     # TODO: Find better way to get same file_id for same media to avoid duplicates
     file_id, file_ref = unpack_new_file_id(media.file_id)
     file_name = re.sub(r"(_|\-|\.|\+)", " ", str(media.file_name))
+    result = await db.command("dbstats")
+    data_size = result['dataSize']
+    size = 503316480 - data_size
+    print(f"{data_size} • 503316480 = {size}")
     try:
         file = Media(
             file_id=file_id,
