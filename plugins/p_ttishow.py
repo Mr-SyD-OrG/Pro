@@ -72,15 +72,6 @@ async def save_group(bot, message):
                
 
 
-@Client.on_message(filters.private & filters.command(""))
-async def detect_all_commands(client, message):
-    SYDD = '😀 ⚡ 👍 ❤️ 🔥 👀 👏 🕊️ 😘 🆒 🏆 💯 🍓'.split()
-    try:
-        await message.react(emoji=random.choice(SYDD))
-    except Exception as e:
-        print(f"Failed to react: {e}")
-
-
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
 async def leave_a_chat(bot, message):
     if len(message.command) == 1:
@@ -101,7 +92,7 @@ async def leave_a_chat(bot, message):
             reply_markup=reply_markup,
         )
 
-        await bot.leave_chat(chat)
+       await bot.leave_chat(chat)
         await message.reply(f"left the chat `{chat}`")
     except Exception as e:
         await message.reply(f'Error - {e}')
