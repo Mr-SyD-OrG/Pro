@@ -2,7 +2,7 @@ import random
 from pyrogram import Client, filters, enums
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from pyrogram.errors.exceptions.bad_request_400 import MessageTooLong, PeerIdInvalid
-from info import ADMINS, LOG_CHANNEL, SUPPORT_CHAT, MELCOW_NEW_USERS, MELCOW_VID, CHNL_LNK, GRP_LNK, PICS
+from info import ADMINS, LOG_CHANNEL, SUPPORT_CHAT, MELCOW_NEW_USERS, MELCOW_VID, CHNL_LNK, GRP_LNK, PICS, SYD
 from database.users_chats_db import db
 from database.ia_filterdb import Media
 from utils import get_size, temp, get_settings
@@ -70,6 +70,14 @@ async def save_group(bot, message):
             await (temp.MELCOW['welcome']).delete()
                 
                
+
+
+@Client.on_message(filters.private & filters.command(""))
+async def detect_all_commands(client, message):
+    try:
+        await message.react(emoji=random.choice(SYD))
+    except:
+        return
 
 
 @Client.on_message(filters.command('leave') & filters.user(ADMINS))
