@@ -1,17 +1,16 @@
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},
-<blockquote>Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a></blockquote> 
+    START_TXT = """<blockquote><b>Hᴇʟʟᴏ {},
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a></blockquote> 
 
 ➻ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ, Oʀ SΞᴀʀᴄʜ Hᴇʀᴇ 😋😋
-
-<blockquote>No Foʀᴄᴇ ꜱᴜʙꜱᴄʀɪʙᴇ ꜱᴜɪᴛᴀʙʟᴇ ɪɴ ɢʀᴏᴜᴩ, ⚡.</blockquote>
-<blockquote>Fᴏʀ PM Sᴜᴩᴩ0ят ᴜꜱᴇ @Mr_Movies_File_bot 🎈</blockquote>
-<blockquote>Δᴅᴅ ᴍᴇ Tᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴇᴀʀɴ ᴍᴏɴᴇʏ.</blockquote></b>"""
+<blockquote>No Foʀᴄᴇ ꜱᴜʙꜱᴄʀɪʙᴇ ꜱᴜɪᴛᴀʙʟᴇ ɪɴ ɢʀᴏᴜᴩ, ⚡.
+Fᴏʀ PM Sᴜᴩᴩ0ят ᴜꜱᴇ @Mr_Movies_File_bot 🎈
+Δᴅᴅ ᴍᴇ Tᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩ ᴀɴᴅ ᴇᴀʀɴ ᴍᴏɴᴇʏ.</blockquote></b>"""
 
     HELP_TXT = """<b><blockquote>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b></blockquote>"""
 
-    ABOUT_TXT = """<blockquote>⍟─────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]─────⍟</blockquote>
+    ABOUT_TXT = """<blockquote><b>⍟─────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]─────⍟</b></blockquote>
 <b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Syd_XyZ'>≛ ᴍ𝖗𓆩𝕾𝖄𝕯𓆪ꪾ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a>
