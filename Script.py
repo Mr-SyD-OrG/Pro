@@ -1,7 +1,6 @@
 class script(object):
     START_TXT = """<blockquote><b>Hᴇʟʟᴏ {},
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a></blockquote> 
-
 ➻ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs, Jᴜsᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Eɴᴊᴏʏ, Oʀ SΞᴀʀᴄʜ Hᴇʀᴇ 😋😋
 <blockquote>No Foʀᴄᴇ ꜱᴜʙꜱᴄʀɪʙᴇ ꜱᴜɪᴛᴀʙʟᴇ ɪɴ ɢʀᴏᴜᴩ, ⚡.
 Fᴏʀ PM Sᴜᴩᴩ0ят ᴜꜱᴇ @Mr_Movies_File_bot 🎈
