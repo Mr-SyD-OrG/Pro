@@ -1238,7 +1238,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton('Sᴇᴛᴛɪɴɢꜱ', callback_data='sydsettings')
         ], [
-            InlineKeyboardButton('Fɪʟᴇ T0 Lɪɴᴋ', callback_data='file_to_link')
+            InlineKeyboardButton('Fɪʟᴇ T0 Lɪɴᴋ', callback_data='filetolink')
         ], [
             InlineKeyboardButton('Hᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('Sᴛᴀᴛᴜs', callback_data='stats')
@@ -1256,7 +1256,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             parse_mode=enums.ParseMode.HTML
         )
     
-    elif query.data == "file_to_link":
+    elif query.data == "filetolink":
         buttons = [[
             InlineKeyboardButton('☚ Bᴀᴄᴋ', callback_data='help')
         ]]
